@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455117857 source:c:\users\dell\documents\progra\proyecto 10 trabajo clase bueno\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
